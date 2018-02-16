@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Feb 2018 21:17:02 -0200</pubDate>
-    <lastBuildDate>Fri, 16 Feb 2018 21:17:02 -0200</lastBuildDate>
+    <pubDate>Fri, 16 Feb 2018 21:55:52 -0200</pubDate>
+    <lastBuildDate>Fri, 16 Feb 2018 21:55:52 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -39,9 +39,16 @@
       </item>
     
       <item>
-        <title>Test</title>
-        <description>
-&lt;h1 id=&quot;publications&quot;&gt;Publications&lt;/h1&gt;
+        <title>Publications</title>
+        <description>&lt;hr /&gt;
+
+&lt;ul id=&quot;ProjectSubmenu&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;/index.html&quot; title=&quot;Home&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a class=&quot;selected&quot; title=&quot;Publications&quot;&gt;Publications&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/_bio&quot; title=&quot;Biography&quot;&gt;Bio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;submitted-1&quot;&gt;2018 (submitted) (1)&lt;/h3&gt;
 
@@ -128,9 +135,13 @@
 }&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Feb 2018 00:00:00 -0200</pubDate>
-        <link>http://yourdomain.com/2018/02/16/test.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2018/02/16/test.html</guid>
+        <link>http://yourdomain.com/jekyll/update/2018/02/16/test.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/02/16/test.html</guid>
         
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
         
       </item>
     
