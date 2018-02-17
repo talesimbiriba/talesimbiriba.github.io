@@ -73,14 +73,18 @@ permalink: /publications/
 *inproceedings* (1)
 
 * {% reference figueiredo2006automatically %} 
+
 * {% reference Hosn2006 %} 
+
 
 ### 2005
 
 *inproceedings* (2)
 
 * {% reference Imbiriba2005_sbrt %} 
+
 * {% reference imbiriba2005til %} 
+
 
 ### 2004
 *inproceedings* (1)
