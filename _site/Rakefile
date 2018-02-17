@@ -1,3 +1,15 @@
+
+
+
+
+desc "Preview _site/"
+task :preview do
+  puts "\n## Opening _site/ in browser"
+  status = system("google-chrome http://0.0.0.0:4000/")
+  puts status ? "Success" : "Failed"
+end
+
+
 desc "Build _site/"
 task :build do
   puts "\n## building using jekyll"
