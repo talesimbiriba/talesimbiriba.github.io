@@ -45,6 +45,7 @@ permalink: /publications/
 
 
 *phd thesis* 
+{% reference Imbiriba2016_thesis %} [(PDF)](https://repositorio.ufsc.br/bitstream/handle/123456789/175321/345225.pdf?sequence=1)
 
 
 ### 2015
