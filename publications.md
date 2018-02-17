@@ -43,14 +43,47 @@ permalink: /publications/
   [PDF](https://arxiv.org/pdf/1503.05521)
   [Code](https://github.com/talesimbiriba/NP_NL_Det_EE_HI/archive/master.zip)
 
+
+*phd thesis* 
+
+
 ### 2015
+
+*inproceedings* (1)
 
 * {% reference Imbiriba2015%} [PDF](https://arxiv.org/pdf/1503.02090)
 
 
 ### 2014
 
+*inproceedings* (1)
+
 * {% reference Imbiriba2014%} [PDF](http://oatao.univ-toulouse.fr/17115/1/imbiriba_17115.pdf)
+
+
+### 2008
+*inproceedings* (1)
+
+* {% reference Borges2008GA %} 
+
+### 2006
+
+*inproceedings* (1)
+
+* {% reference figueiredo2006automatically %} 
+* {% reference Hosn2006 %} 
+
+### 2005
+
+*inproceedings* (2)
+
+* {% reference Imbiriba2005_sbrt %} 
+* {% reference imbiriba2005til %} 
+
+### 2004
+*inproceedings* (1)
+
+* {% reference Imbiriba2004 %} 
 
 
 
