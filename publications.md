@@ -31,7 +31,9 @@ permalink: /publications/
 * {% reference Imbiriba2017_bs_tip%} [(PDF)](https://arxiv.org/pdf/1603.00437) [(Code)](https://github.com/talesimbiriba/clique_BS/archive/master.zip)
 
 
+*inproceedings* (1)
 
+* {% reference Borges_2017_eas%}
 
 
 
