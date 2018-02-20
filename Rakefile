@@ -13,7 +13,7 @@ end
 desc "Build _site/"
 task :build do
   puts "\n## building using jekyll"
-  status = system("jekyll build")
+  status = system("bundle exec jekyll build")
   puts status ? "Success" : "Failed"
   message = "Build site at #{Time.now.utc}"
 end
