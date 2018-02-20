@@ -14,7 +14,7 @@ permalink: /publications/
 
 *inproceedings* (1)
 
-* {% reference Imbiriba2017_glmm %} 
+* {% reference Imbiriba2017_glmm %} [(PDF)](https://arxiv.org/pdf/1710.07723)
 
 
 
@@ -70,7 +70,7 @@ permalink: /publications/
 
 ### 2006
 
-*inproceedings* (1)
+*inproceedings* (2)
 
 * {% reference figueiredo2006automatically %} 
 
