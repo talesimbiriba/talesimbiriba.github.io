@@ -12,7 +12,7 @@ end
 
 desc "Clean _site/"
 task :clean do
-  puts "\n## building using jekyll"
+  puts "\n## Clean _site folder"
   status = system("rm -rf _site")
   puts status ? "Success" : "Failed"
   message = "Build site at #{Time.now.utc}"
