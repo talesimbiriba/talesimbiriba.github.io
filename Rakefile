@@ -18,8 +18,10 @@ task :build do
   message = "Build site at #{Time.now.utc}"
 end
 
-desc "Commit _site/"
+desc "Commit site changes"
 task :commit do
+  puts "\n## Deleting _site folder"
+  status = system("rm -rf _site")
   puts "\n## Staging modified files"
   status = system("git add -A")
   puts status ? "Success" : "Failed"
@@ -55,6 +57,6 @@ end
 
 
 desc "running rake default settings"
-task :default => ["build", "commit", "deploy"] do
+task :default => ["commit", "build", "deploy"] do
   puts "\n## All done!"
 end
