@@ -10,6 +10,15 @@ task :preview do
 end
 
 
+desc "Clean _site/"
+task :clean do
+  puts "\n## building using jekyll"
+  status = system("rm -rf _site")
+  puts status ? "Success" : "Failed"
+  message = "Build site at #{Time.now.utc}"
+end
+
+
 desc "Build _site/"
 task :build do
   puts "\n## building using jekyll"
@@ -34,27 +43,29 @@ end
 
 desc "Deploy _site/ to master branch"
 task :deploy do
-  puts "\n## Deleting master branch"
-  status = system("git branch -D master")
-  puts status ? "Success" : "Failed"
-  puts "\n## Creating new master branch and switching to it"
-  status = system("git checkout -b master")
+  puts "\n## Deleting content of master branch"
+  status = system("git checkout master")
+  status = system("rm Gemfile.lock")
+  status = system("git rm -r *") 
   puts status ? "Success" : "Failed"
   puts "\n## Forcing the _site subdirectory to be project root"
-  status = system("git filter-branch --subdirectory-filter _site/ -f")
+  status = system("mv  _site/* .")
+  status = system("rm -r  _site/")
   puts status ? "Success" : "Failed"
-  puts "\n## Pulling master from master branch"
-  status = system("git pull origin master")
-  puts "\n## Switching back to source branch"
-  status = system("git checkout source")
+  puts "\n## Staging modified files"
+  status = system("git add -A")
   puts status ? "Success" : "Failed"
-  puts "\n## Pushing all branches to origin"
-  status = system("git push --all origin")
+  puts "\n## Committing master at #{Time.now.utc}"
+  message = "Build site at #{Time.now.utc}"
+  status = system("git commit -m \"#{message}\"")
+  puts status ? "Success" : "Failed"
+  puts "\n## Pushing commits to remote"
+  status = system("git push origin master")
   puts status ? "Success" : "Failed"
 end
 
 
 desc "running rake default settings"
-task :default => ["build","commit", "deploy"] do
+task :default => ["clean","commit","build", "deploy"] do
   puts "\n## All done!"
 end
