@@ -10,6 +10,15 @@ task :preview do
 end
 
 
+desc "Clean _site/"
+task :clean do
+  puts "\n## building using jekyll"
+  status = system("rm -rf _site")
+  puts status ? "Success" : "Failed"
+  message = "Build site at #{Time.now.utc}"
+end
+
+
 desc "Build _site/"
 task :build do
   puts "\n## building using jekyll"
@@ -54,6 +63,6 @@ end
 
 
 desc "running rake default settings"
-task :default => ["build","commit", "deploy"] do
+task :default => ["clean","commit","build", "deploy"] do
   puts "\n## All done!"
 end
