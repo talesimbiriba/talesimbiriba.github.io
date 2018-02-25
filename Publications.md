@@ -12,11 +12,10 @@ use_math: true
 
 ### 2018 (submitted) (1)
 
-* asd
+* *inproceedings (1)* 
 
-		<a href="#" class="button">Button</a>
-		<a href="#" class="button icon fa-search">Icon</a>
-	
+* Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). A Low-rank Tensor Regularization Strategy for Hyperspectral Unmixing.  IEEE Statistical Signal Processing Workshop (SSP) 2018. 
+
 ### 2018
 
 *inproceedings (1)* 
