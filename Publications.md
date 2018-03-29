@@ -10,15 +10,16 @@ use_math: true
 
 [\[2018\]](#2018-submitted-1) [\[2017\]](#2017-submitted-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
 
-### 2018 (submitted) (1)
+### 2018 (submitted) (0)
 
-* *inproceedings (1)* 
 
-* Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). A Low-rank Tensor Regularization Strategy for Hyperspectral Unmixing.  IEEE Statistical Signal Processing Workshop (SSP) 2018. [(PDF)](https://arxiv.org/pdf/1803.06355.pdf) 
 
 ### 2018
 
 *inproceedings (1)* 
+
+* Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). A Low-rank Tensor Regularization Strategy for Hyperspectral Unmixing.  IEEE Statistical Signal Processing Workshop (SSP) 2018. [(PDF)](https://arxiv.org/pdf/1803.06355.pdf) 
+
 * Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). Generalized linear mixing model accounting for endmember variability. 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).  [(PDF)](https://arxiv.org/pdf/1710.07723)
 
 ### 2017 (submitted) (2)
