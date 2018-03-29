@@ -14,7 +14,7 @@ use_math: true
 
 ### 2018
 
-*inproceedings (1)* 
+*inproceedings (2)* 
 
 * Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). A Low-rank Tensor Regularization Strategy for Hyperspectral Unmixing.  IEEE Statistical Signal Processing Workshop (SSP) 2018. [(PDF)](https://arxiv.org/pdf/1803.06355.pdf) 
 
