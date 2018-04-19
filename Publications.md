@@ -1,5 +1,5 @@
 ---
-title: Publications and Code
+title: Publications and Codes
 subtitle: list of my publications
 layout: "page"
 icon: fa-book
@@ -18,7 +18,7 @@ use_math: true
 
 * Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). A Low-rank Tensor Regularization Strategy for Hyperspectral Unmixing.  IEEE Statistical Signal Processing Workshop (SSP) 2018. [(PDF)](https://arxiv.org/pdf/1803.06355.pdf) 
 
-* Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). Generalized linear mixing model accounting for endmember variability. 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).  [(PDF)](https://arxiv.org/pdf/1710.07723)
+* Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). Generalized linear mixing model accounting for endmember variability. 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).  [(PDF)](https://arxiv.org/pdf/1710.07723) [(Code)](https://github.com/talesimbiriba/GLMM/archive/master.zip)
 
 ### 2017 (submitted) (2)
 
