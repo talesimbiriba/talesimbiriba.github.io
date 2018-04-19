@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications and Code
 subtitle: list of my publications
 layout: "page"
 icon: fa-book
