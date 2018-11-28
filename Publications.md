@@ -8,11 +8,30 @@ use_math: true
 ---
 
 
-[\[2018\]](#2018-2) [\[2017\]](#2017-submitted-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
+[\[2018\]](#2018-submitted-4) [\[2017\]](#2017-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
+
+
+### 2018 (submitted) (4)
+
+* Imbiriba T., Borsoi R. A., Bermudez J. C. M. Low-Rank Tensor Modeling for Hyperspectral Unmixing Accounting for Spectral Variability. IEEE Trans. on Geoscience and Remote Sensing. [(PDF)](https://arxiv.org/pdf/1811.02413.pdf)
+
+*  Borsoi R. A., Imbiriba T., Bermudez J. C. M. Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.10072.pdf)
+
+* Borsoi R. A., Imbiriba T., Bermudez J. C. M. A data dependent multiscale model for hyperspectral unmixing with spectral variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.01047.pdf)
+
+* Borsoi R. A., Imbiriba T., Bermudez J. C. M. IMPROVED HYPERSPECTRAL UNMIXING WITH ENDMEMBER VARIABILITY PARAMETRIZED USING AN INTERPOLATED SCALING TENSOR. (ICASSP 2019) 
 
 
 
-### 2018
+### 2018 (4)
+
+*article (2)*
+
+* Borsoi, R. A., Imbiriba, T., Bermudez, J. C. M.,  Richard, C. (2017). A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing. IEEE Geoscience and Remote Sensing Letters. [(PDF)](https://arxiv.org/pdf/1712.01770.pdf) [(Code)](https://github.com/ricardoborsoi/MUA_SparseUnmixing/archive/master.zip) [(Git)](https://github.com/ricardoborsoi/MUA_SparseUnmixing)
+
+
+* Imbiriba, T., Bermudez, J. C. M., Tourneret, J.-Y.,  Bershad, N. J. (2017). A New Decision-Theory-Based Framework for Echo Canceler Control. IEEE Transactions on Signal Processing. [(PDF)](https://arxiv.org/pdf/1711.11454)
+
 
 *inproceedings (2)* 
 
@@ -20,12 +39,8 @@ use_math: true
 
 * Imbiriba, T., Borsoi, R. A., Bermudez, J. C. M. (2018). Generalized linear mixing model accounting for endmember variability. 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).  [(PDF)](https://arxiv.org/pdf/1710.07723) [(Code)](https://github.com/talesimbiriba/GLMM/archive/master.zip)
 
-### 2017 (submitted) (2)
-
-* Borsoi, R. A., Imbiriba, T., Bermudez, J. C. M.,  Richard, C. (2017). A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1712.01770)
 
 
-* Imbiriba, T., Bermudez, J. C. M., Tourneret, J.-Y.,  Bershad, N. J. (2017). A New Decision-Theory-Based Framework for Echo Canceler Control. IEEE Transactions on Signal Processing. [(PDF)](https://arxiv.org/pdf/1711.11454)
 
 ### 2017 (2)
 *article (1)*
