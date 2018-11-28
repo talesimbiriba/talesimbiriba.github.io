@@ -20,7 +20,7 @@ use_math: true
 
 * Borsoi R. A., Imbiriba T., Bermudez J. C. M. A data dependent multiscale model for hyperspectral unmixing with spectral variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.01047.pdf)
 
-* Borsoi R. A., Imbiriba T., Bermudez J. C. M. IMPROVED HYPERSPECTRAL UNMIXING WITH ENDMEMBER VARIABILITY PARAMETRIZED USING AN INTERPOLATED SCALING TENSOR. (ICASSP 2019) 
+* Borsoi R. A., Imbiriba T., Bermudez J. C. M. Improved hyperspectral unmixing with endmember variability parametrized using an interpolated scaling tensor. (ICASSP 2019) 
 
 
 
