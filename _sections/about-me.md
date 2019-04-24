@@ -10,7 +10,6 @@ use_math: true
 
 <a href="#" class="image featured"><img src="assets/images/surf_raps.jpg" alt=""/></a>
 
-
 	I am a postdoc researcher at the Digital Signal Processing Laboratory [(LPDS)](http://lpds.ufsc.br/) at the Federal University of Santa Catarina (UFSC) Brazil. My [research](/research) interests relate to Pattern Recognition, Kernalized methods, Bayesian methods, Adaptive Filtering, and Spectral Unmixing.
 
 Please fell free to reach out! 
