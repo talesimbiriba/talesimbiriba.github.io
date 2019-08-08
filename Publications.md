@@ -9,19 +9,39 @@ use_math: true
 
 
 
-[\[2018\]](#2018-submitted-4) [\[2017\]](#2017-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
+[\[2019\]](#2019-submitted-2) [\[2018\]](#2018-submitted-2) [\[2017\]](#2017-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
 
 
-### 2018 (submitted) (4)
+### 2019 (submitted) (4)
 
-* Imbiriba T., Borsoi R. A., Bermudez J. C. M. Low-Rank Tensor Modeling for Hyperspectral Unmixing Accounting for Spectral Variability. IEEE Trans. on Geoscience and Remote Sensing. [(PDF)](https://arxiv.org/pdf/1811.02413.pdf)
+*  Borsoi R. A., Imbiriba T., Bermudez J. C. M., C. Richard, A Blind Multiscale Spatial Regularization Framework for Kernel-based Spectral Unmixing. IEEE Transactions on Image Processing.
 
-*  Borsoi R. A., Imbiriba T., Bermudez J. C. M. Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.10072.pdf)
+* T. Imbiriba, G. LaMountain, P. Wu, D. Erdogmus and P. Closas, Change Detection and Gaussian Process inference in piecewise stationary environments under noisy inputs, CAMSAP 2019.
 
-* Borsoi R. A., Imbiriba T., Bermudez J. C. M. A data dependent multiscale model for hyperspectral unmixing with spectral variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.01047.pdf)
+* P. Wu, T. Imbiriba, G. LaMountain, J. Vila-Valls, P. Closas, WiFi Fingerprinting and Tracking using Neural Networks, ION 2019.
 
-* Borsoi R. A., Imbiriba T., Bermudez J. C. M. Improved hyperspectral unmixing with endmember variability parametrized using an interpolated scaling tensor. (ICASSP 2019) 
+* R. A. Borsoi, T. Imbiriba, J.C.M. Bermudez, Deep Generative Endmember Modeling: An Application to Unsupervised Spectral Unmixing. IEEE Trans. on Computational Imaging. [(PDF)](https://arxiv.org/pdf/1902.05528.pdf)
 
+
+### 2019 (2)
+
+*article (1)*
+
+*  Borsoi R. A., Imbiriba T., Bermudez J. C. M., Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.10072.pdf)
+
+
+*inproceedings (1)*
+
+* Borsoi R. A., Imbiriba T., Bermudez J. C. M. Improved hyperspectral unmixing with endmember variability parametrized using an interpolated scaling tensor. International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, 2019, pp. 2177-2181. [(PDF)](https://arxiv.org/abs/1901.00463)
+
+
+### 2018 (submitted) (2)
+
+
+* Imbiriba T., Borsoi R. A., Bermudez J. C. M., Low-Rank Tensor Modeling for Hyperspectral Unmixing Accounting for Spectral Variability. IEEE Trans. on Geoscience and Remote Sensing. [(PDF)](https://arxiv.org/pdf/1811.02413.pdf)
+
+
+* Borsoi R. A., Imbiriba T., Bermudez J. C. M., A data dependent multiscale model for hyperspectral unmixing with spectral variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.01047.pdf)
 
 
 ### 2018 (4)
