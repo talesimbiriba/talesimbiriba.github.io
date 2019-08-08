@@ -13,6 +13,7 @@ use_math: true
 
 ### 2019 (submitted) (4)
 
+
 *  Borsoi R. A., Imbiriba T., Bermudez J. C. M., C. Richard, A Blind Multiscale Spatial Regularization Framework for Kernel-based Spectral Unmixing. IEEE Transactions on Image Processing.
 
 * T. Imbiriba, G. LaMountain, P. Wu, D. Erdogmus and P. Closas, Change Detection and Gaussian Process inference in piecewise stationary environments under noisy inputs, CAMSAP 2019.
@@ -23,6 +24,7 @@ use_math: true
 
 
 ### 2019 (2)
+
 
 *article (1)*
 
