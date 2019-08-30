@@ -8,10 +8,10 @@ use_math: true
 ---
 
 
-[\[2019\]](#2019-submitted-2) [\[2018\]](#2018-submitted-2) [\[2017\]](#2017-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
+[\[2019\]](#2019-submitted-3) [\[2018\]](#2018-submitted-2) [\[2017\]](#2017-2) [\[2016\]](#2016-2) [\[2015\]](#2015-1) [\[2014\]](#2014-1) [\[2008\]](#2008-1) [\[2006\]](#2006-2) [\[2005\]](#2005-2) [\[2004\]](#2004-1)
 
 
-### 2019 (submitted) (4)
+### 2019 (submitted) (3)
 
 
 *  Borsoi R. A., Imbiriba T., Bermudez J. C. M., C. Richard, A Blind Multiscale Spatial Regularization Framework for Kernel-based Spectral Unmixing. IEEE Transactions on Image Processing.
@@ -20,13 +20,13 @@ use_math: true
 
 * P. Wu, T. Imbiriba, G. LaMountain, J. Vila-Valls, P. Closas, WiFi Fingerprinting and Tracking using Neural Networks, ION 2019.
 
+
+### 2019 (3)
+
+
+*article (2)*
+
 * R. A. Borsoi, T. Imbiriba, J.C.M. Bermudez, Deep Generative Endmember Modeling: An Application to Unsupervised Spectral Unmixing. IEEE Trans. on Computational Imaging. [(PDF)](https://arxiv.org/pdf/1902.05528.pdf)
-
-
-### 2019 (2)
-
-
-*article (1)*
 
 *  Borsoi R. A., Imbiriba T., Bermudez J. C. M., Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.10072.pdf)
 
