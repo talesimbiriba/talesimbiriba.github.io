@@ -54,6 +54,7 @@ twitter_url:
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-146779860-1
+environment: production
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
