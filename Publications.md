@@ -18,6 +18,7 @@ use_math: true
 
 * T. Imbiriba, G. LaMountain, P. Wu, D. Erdogmus and P. Closas, Change Detection and Gaussian Process inference in piecewise stationary environments under noisy inputs, CAMSAP 2019.
 
+
 * P. Wu, T. Imbiriba, G. LaMountain, J. Vila-Valls, P. Closas, WiFi Fingerprinting and Tracking using Neural Networks, ION 2019.
 
 
