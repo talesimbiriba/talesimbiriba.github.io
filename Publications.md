@@ -19,9 +19,6 @@ use_math: true
 * T. Imbiriba, G. LaMountain, P. Wu, D. Erdogmus and P. Closas, Change Detection and Gaussian Process inference in piecewise stationary environments under noisy inputs, CAMSAP 2019.
 
 
-* P. Wu, T. Imbiriba, G. LaMountain, J. Vila-Valls, P. Closas, WiFi Fingerprinting and Tracking using Neural Networks, ION 2019.
-
-
 ### 2019 (3)
 
 
@@ -32,7 +29,9 @@ use_math: true
 *  Borsoi R. A., Imbiriba T., Bermudez J. C. M., Super-Resolution for Hyperspectral and Multispectral Image Fusion Accounting for Seasonal Spectral Variability. IEEE Transactions on Image Processing. [(PDF)](https://arxiv.org/pdf/1808.10072.pdf)
 
 
-*inproceedings (1)*
+*inproceedings (2)*
+
+* P. Wu, T. Imbiriba, G. LaMountain, J. Vila-Valls, P. Closas, WiFi Fingerprinting and Tracking using Neural Networks, ION 2019.
 
 * Borsoi R. A., Imbiriba T., Bermudez J. C. M. Improved hyperspectral unmixing with endmember variability parametrized using an interpolated scaling tensor. International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, United Kingdom, 2019, pp. 2177-2181. [(PDF)](https://arxiv.org/abs/1901.00463)
 

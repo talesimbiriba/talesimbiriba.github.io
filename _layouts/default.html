@@ -10,6 +10,9 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 	<body>
 		{{- content -}}
 		{%- include footer.html -%}
+		{% if jekyll.environment == 'production' %}
+    		{% include google_analytics.html %}
+		{% endif %}
 	</body>
 </html>
 

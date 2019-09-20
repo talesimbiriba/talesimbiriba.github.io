@@ -13,7 +13,7 @@ use_math: true
 
 
 
-I am a posdoctoral researcher associated with the SPIRAL group [(SPIRAL)](https://web.northeastern.edu/spiral/) and the CSL [(CSL)](https://web.northeastern.edu/csl/), in the ECE department at Northeastern University (NEU) USA. My [research](/research) interests relate to Pattern Recognition, Kernalized methods, Bayesian methods, Adaptive Filtering, and Spectral Unmixing.
+I am a posdoctoral researcher associated with the SPIRAL group [(SPIRAL)](https://web.northeastern.edu/spiral/) in the ECE department at Northeastern University (NEU) USA. My [research](/research) interests relate to Pattern Recognition, Kernelized methods, Bayesian methods, Adaptive Filtering, and Spectral Unmixing.
 
 
 Please fell free to reach out! 
