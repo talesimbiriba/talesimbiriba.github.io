@@ -21,7 +21,7 @@
 title: Tales Imbiriba
 email: talesim at ece (dot) neu (dot) edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the Tales Imbiriba personal page used for share a bit of his research 
+  This is the Tales Imbiriba personal page used for sharing a bit of his research 
   interests and active research projects. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
