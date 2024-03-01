@@ -7,7 +7,7 @@ layout: home
 
 ![Tales Imbiriba](/figs/Photo_Imbiriba.jpg){: width="130" : style="float: right" } Tales Imbiriba is an Assistant Research Professor at the ECE dept., and Senior Research Scientist at the Institute for Experiential AI, both at Northeastern University (NU), Boston, MA, USA. He
 received his Doctorate degree from the Department of Electrical Engineering (DEE) of the Federal University of Santa Catarina (UFSC), Florianopolis, Brazil, in 2016. He served as a Postdoctoral Researcher at the DEE--UFSC (2017--2019) and at the ECE dept. of the NU (2019--2021). 
-His research interests Bayesian inference, online learning, and physics-guided machine learning with applications to *human-centered technologies*, *remote sensing of the environment* and *technologies for enhanced security*.
+His research interests concentrate on Bayesian inference, online learning, and physics-guided machine learning with applications to *human-centered technologies*, *remote sensing of the environment* and *technologies for enhanced security*.
 
 
 <!-- ________________________ -->
