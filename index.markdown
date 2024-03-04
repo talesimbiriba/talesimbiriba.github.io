@@ -30,10 +30,11 @@ My research is rooted in statistical modeling and inference applied to different
 **Online machine learning and RBE:**
 ![ASD](/figs/Lorentz.png){: width="250" : style="float: right" }
  The dynamic nature of many problems demands data analysis strategies capable of adapting to different conditions, i.e., non-stationary environments, which are expressed by changes in data statistics over time and space. In this context, adaptive and recursive Bayesian estimation (RBE) strategies play a relevant role in linear and nonlinear data analysis.
- Insights from these fundamental adaptive methodologies resulted in my contributions for multi-temporal hyperspectral image analysis, performance analysis of a decision-theory-based framework for echo canceler control using adaptive filters, online inference of neural network (NN) and Gaussian processes (GPs) models in the context of indoor navigation. 
+ Insights from these fundamental adaptive methodologies resulted in my contributions for multi-temporal hyperspectral image analysis, performance analysis of a decision-theory-based framework for echo canceler control using adaptive filters, online inference of neural network (NN) and Gaussian process (GP) models in the context of indoor navigation. 
  ![ASD](/figs/NODA.png){: width="240" : style="float: right" }
  At the same time, I developed new works in the context of particle filtering. 
-Recently, I focused on data-driven *augmented physical-based models* (APBMs). Unlike other physics-related neural network approaches, APBMs act as correcting terms, or nonlinear fluctuations, around the physical model. We empirically demonstrated that if properly controlled, such models can maintain the physical meaning of latent states learned in an unsupervised fashion. Currently, my research aims to improve learning mechanisms and understand the explainability of APBMs.
+Recently, I focused on data-driven *augmented physical-based models* (APBMs). Unlike other physics-related neural network approaches, APBMs act as correcting terms, or nonlinear fluctuations, around the physical model. We empirically demonstrated that if properly controlled, such models can maintain the physical meaning of latent states learned in an unsupervised fashion. One point of my current research is to improve learning mechanisms and understand the explainability of APBMs. 
+Following another trend of approximation methods for PDEs, we provided an unified framework for estimation and data assimilation for Neural Operators (NOs). Our work, proposed a seemless update approach for NOs, capable of improving estimations of standard NOs by assimilating sparsely availble data.
 
 *Selected Publications:* 
 [ICLR2024](https://arxiv.org/pdf/2402.15656.pdf)
