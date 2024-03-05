@@ -38,6 +38,7 @@ Following another trend of approximation methods for PDEs, we provided an unifie
 
 *Selected Publications:* 
 [ICLR2024](https://arxiv.org/pdf/2402.15656.pdf)
+[TSP2023](https://arxiv.org/pdf/2212.07311.pdf)
 [FUSION2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9841291)
   [TAE2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10302385) 
 
