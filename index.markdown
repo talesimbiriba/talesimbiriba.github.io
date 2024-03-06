@@ -43,7 +43,7 @@ Following another trend of approximation methods for PDEs, we provided an unifie
   [TAE2023](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10302385) 
 
 
-
+_______________________
 ### *Human-centered Technologies for Health and Wellbeing*
 
 
@@ -74,6 +74,8 @@ Recently, I designed novel active learning methods to automatically infer optima
 
 *Related Publications:* [TNSRE2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9515996) [PETRA2020](https://dl.acm.org/doi/abs/10.1145/3389189.3389202) [FUSION2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190631) 
 
+
+_______________________
 ### *Remote sensing and multispectral imaging for environmental monitoring and sustainability*
 
 **Spectral Unmixing for Hyperspectral Imaging:**
@@ -92,6 +94,8 @@ Recently, I analyzed the impact of using hyperspectral data for classifying plas
 
 *Publications:* [WHISPERS2023](https://arxiv.org/pdf/2307.12145.pdf)
 
+
+_______________________
 ### *Technologies for enhanced security*
 
 **Distributed AI for enhanced security in satellite-aided wireless navigation (RESILIENT):**
